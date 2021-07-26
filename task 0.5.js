@@ -4,6 +4,6 @@ function areaOfATriangle (x, y, z){
 
     var area = Math.sqrt(perimeter * (perimeter - x) * (perimeter - y) * (perimeter - z));
 
-    console.log(area);
+   return area;
 }
     areaOfATriangle(3, 4, 5);
