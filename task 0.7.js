@@ -1,6 +1,6 @@
 function celsiusToFahrenheit(temp){
     var ans = (temp * (9/5) ) + 32;
-    console.log(ans);
+    return ans;
 }
 
 function fahrenheitToCelsius(temp){
