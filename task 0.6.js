@@ -11,6 +11,6 @@ function maxNum(a,b,c){
         max = c;
         }
         
-    console.log(max);
+  return max;
 }
     maxNum(1,2,3);
