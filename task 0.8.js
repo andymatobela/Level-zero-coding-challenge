@@ -20,4 +20,4 @@ function timeConversion(time){
 
     }
 }
-timeConversion(45);
+timeConversion(183);
